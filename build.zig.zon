@@ -1,0 +1,7 @@
+.{
+    .name = ._6502_jit,
+    .version = "0.0.1",
+    .minimum_zig_version = "0.16.0",
+    .paths = .{""},
+    .fingerprint = 0x18f9928449cc6404,
+}
